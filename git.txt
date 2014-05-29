@@ -1,0 +1,20 @@
+u kadého commitu je poèítána z jeho obsahu, a tím je i odkaz na tree (snapshot repositáøe v daném èase) a rodièe (pøedchozí stav)
+SHA1
+
+Github má ambici nastartovat komunitu kolem open source projektù tím, 
+e úloištì pro repositáø povyšuje na programátorskou sociální sí. Facebook pro programátory.
+
+Gitem si mohu zaloit novı repositáø, kdykoliv zaèínám nìco nového.
+Teprve kdy zjistím, e projekt za nìco stojí, nahraju ho na server a zpøístupním ostatním kolegùm nebo komunitì.
+
+pull request (ádost o zaèlenìní mé zmìny do pùvodního repositáøe)
+commit - náhrání mé zmìnìné verze
+merge - slouèení branchí
+
+
+
+GIT
+
+- monost umístìní obrovskıch a komplexních projektù
+- umonuje zasahovat do historie, mazat slepé vìtve
+- napsanı  v C a shell scriptech
